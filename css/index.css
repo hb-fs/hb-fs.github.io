@@ -1,0 +1,85 @@
+*{
+	padding:0;
+	margin:0;
+}
+body,html{
+	width: 100%;
+	min-width:320px;
+	max-width: 750px;
+	margin:0 auto;
+	font-family: "微软雅黑";
+	background: #F2f2f2;
+}
+
+.container{
+	padding:0 10px;
+	overflow: hidden;
+}
+
+nav{
+	width:100%;
+	font-size:18px;
+	float: left;
+	margin-top: 10px;
+}
+.tips{
+	width: 100%;
+	margin-top: 10px;
+	float: left;
+	font-size: 14px;
+	color: #999;
+	margin-bottom:10px
+}
+.img,.img img{
+	width: 100%;
+	float: left;
+}
+
+.title{
+	width: 100%;
+	float: left;
+	margin: 20px 0;
+	text-align: center;
+}
+
+.swiper{
+	width: 100%;
+	float: left;
+	background: #FFFFFF;
+}
+
+ .swiper-container {
+        width: 100%;
+        height: 100%;
+    }
+    .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+
+    }
+.swiper-slide img{
+	width: 100%;
+	float: left;
+}    
+
+.loading{
+	color: #999;
+	width:100%;
+	float: left;
+	text-align: center;
+	margin:10px 0;
+}
+.swiper-slide{
+	position:relative;
+}
+.sp{
+
+	font-size:15px;
+	float:left;
+	width:96%;
+	color:#222;
+	margin:10px 2%;
+	line-height:23px;
+	text-align:left；
+}
